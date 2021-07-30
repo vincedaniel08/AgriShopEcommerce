@@ -25,6 +25,7 @@
 
 
 ## Features
+- Responsive UI
 - Login, Register, Forgot Password
 - Seller, Add Product
 - Cart, Add and Remove
