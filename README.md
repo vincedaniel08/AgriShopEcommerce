@@ -25,10 +25,13 @@
 
 
 ## Features
-- Login, Register 
-- User Profile
-- Shopping Cart
-- Payment
+- Login, Register, Forgot Password
+- Seller, Add Product
+- Cart, Add and Remove
+- Buyers Order, Buyer Order Status, Change Status
+- My Order, Order Status
+- Payment, COD, Paypal
+- Rider, Accept Deliveries, Change Status, My Deliver Status
 
 ## Logo
 bryceganotice.22@gmail.com
