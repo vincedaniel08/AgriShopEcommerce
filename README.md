@@ -6,9 +6,9 @@
 # Agrishop Ecommerce - React & PWA Builder
 
 
-[Buyer & Seller](https://agrishop.netlify.app)
-[Rider](https://rideragrishop.netlify.app)
-[App link](https://drive.google.com/drive/u/0/folders/1ayIYqSHCdaUOlVwpVmQEMRb5jOnGD3Od)
+[Buyer & Seller Link](https://agrishop.netlify.app), 
+[Rider Link](https://rideragrishop.netlify.app), 
+[App Link](https://drive.google.com/drive/u/0/folders/1ayIYqSHCdaUOlVwpVmQEMRb5jOnGD3Od)
 
 # No User
 <img src="images/nohomeuser.png" width="300"> <img src="images/nohomeuser1.png" width="300" > <img src="images/homeuseralert.png" width="300">
