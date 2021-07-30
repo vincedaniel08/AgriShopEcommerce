@@ -9,7 +9,7 @@
 
 [App link](https://drive.google.com/drive/u/0/folders/1ayIYqSHCdaUOlVwpVmQEMRb5jOnGD3Od)
 
-<img src="images/nohomeuser.png" width="150"> <img src="images/nohomeuser1.png" width="150" > <img src="images/Sign%20up.jpg" width="150"> <img src="images/home.jpg" width="150"> <img src="images/Navigation.jpg" width="150"> <img src="images/Product%20detail.jpg" width="150"> <img src="images/cart.jpg" width="150"> <img src="images/product%20confirmation.jpg" width="150"> <img src="images/razor%20setup.jpg" width="150"> <img src="images/razor%20details.jpg" width="150"> <img src="images/success.jpg" width="150">
+<img src="images/nohomeuser.png" width="300"> <img src="images/nohomeuser1.png" width="150" > <img src="images/Sign%20up.jpg" width="150"> <img src="images/home.jpg" width="150"> <img src="images/Navigation.jpg" width="150"> <img src="images/Product%20detail.jpg" width="150"> <img src="images/cart.jpg" width="150"> <img src="images/product%20confirmation.jpg" width="150"> <img src="images/razor%20setup.jpg" width="150"> <img src="images/razor%20details.jpg" width="150"> <img src="images/success.jpg" width="150">
 
 
 ## Features
