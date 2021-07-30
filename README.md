@@ -26,11 +26,8 @@
 
 ## Features
 - Login, Register 
-
 - User Profile
-
 - Shopping Cart
-
 - Payment
 
 ## Logo
