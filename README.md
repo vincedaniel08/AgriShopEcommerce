@@ -32,6 +32,7 @@
 - My Order, Order Status
 - Payment, COD, Paypal
 - Rider, Accept Deliveries, Change Status, My Deliver Status
+- Data Base Firebase
 
 ## Logo
 bryceganotice.22@gmail.com
